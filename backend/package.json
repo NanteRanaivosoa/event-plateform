@@ -12,4 +12,6 @@
   "dependencies": {
     "backend": "file:",
     "cors": "^2.8.5",
-    "ex
+    "express": "^4.21.2"
+  }
+}
